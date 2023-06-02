@@ -51,5 +51,6 @@ include "pages/" . $page . ".php";
 <?php
 include "../familyLinks.php";
 ?>
+<p> This is the test</p>
 </body>
 </html>
